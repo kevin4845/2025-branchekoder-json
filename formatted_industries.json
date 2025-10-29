@@ -1,0 +1,2954 @@
+[
+    {
+        "code": "011100",
+        "title": "Dyrkning af korn (undtagen ris), bælgfrugter og olieholdige frø"
+    },
+    {
+        "code": "011200",
+        "title": "Dyrkning af ris"
+    },
+    {
+        "code": "011300",
+        "title": "Dyrkning af grøntsager og meloner, rødder og rodknolde"
+    },
+    {
+        "code": "011400",
+        "title": "Dyrkning af sukkerrør"
+    },
+    {
+        "code": "011500",
+        "title": "Dyrkning af tobak"
+    },
+    {
+        "code": "011600",
+        "title": "Dyrkning af tekstilplanter"
+    },
+    {
+        "code": "011900",
+        "title": "Dyrkning af andre etårige afgrøder"
+    },
+    {
+        "code": "012100",
+        "title": "Dyrkning af druer"
+    },
+    {
+        "code": "012200",
+        "title": "Dyrkning af tropiske og subtropiske frugter"
+    },
+    {
+        "code": "012300",
+        "title": "Dyrkning af citrusfrugter"
+    },
+    {
+        "code": "012400",
+        "title": "Dyrkning af kernefrugter og stenfrugter"
+    },
+    {
+        "code": "012500",
+        "title": "Dyrkning af andre træfrugter, bær og nødder"
+    },
+    {
+        "code": "012600",
+        "title": "Dyrkning af olieholdige frugter"
+    },
+    {
+        "code": "012700",
+        "title": "Dyrkning af planter til fremstilling af drikkevarer"
+    },
+    {
+        "code": "012800",
+        "title": "Dyrkning af krydderiplanter, aromaplanter og lægeplanter"
+    },
+    {
+        "code": "012900",
+        "title": "Dyrkning af andre flerårige afgrøder"
+    },
+    {
+        "code": "013000",
+        "title": "Planteformering"
+    },
+    {
+        "code": "014100",
+        "title": "Avl af malkekvæg"
+    },
+    {
+        "code": "014200",
+        "title": "Avl af andet kvæg og bøfler"
+    },
+    {
+        "code": "014300",
+        "title": "Avl af heste og dyr af hestefamilien"
+    },
+    {
+        "code": "014400",
+        "title": "Avl af kameler og dyr af kamelfamilien"
+    },
+    {
+        "code": "014500",
+        "title": "Avl af får og geder"
+    },
+    {
+        "code": "014610",
+        "title": "Avl af smågrise"
+    },
+    {
+        "code": "014620",
+        "title": "Produktion af slagtesvin"
+    },
+    {
+        "code": "014700",
+        "title": "Fjerkræavl"
+    },
+    {
+        "code": "014800",
+        "title": "Avl af andre dyr"
+    },
+    {
+        "code": "015000",
+        "title": "Blandet landbrugsdrift"
+    },
+    {
+        "code": "016100",
+        "title": "Støtteaktiviteter i forbindelse med planteavl"
+    },
+    {
+        "code": "016200",
+        "title": "Støtteaktiviteter i forbindelse med husdyravl"
+    },
+    {
+        "code": "016300",
+        "title": "Forarbejdning af afgrøder efter høst af frø\/sædekorn til udsæd"
+    },
+    {
+        "code": "017000",
+        "title": "Jagt, fældefangst og serviceydelser i forbindelse hermed"
+    },
+    {
+        "code": "021000",
+        "title": "Dyrkning af træer og andre skovbrugsaktiviteter"
+    },
+    {
+        "code": "022000",
+        "title": "Skovning"
+    },
+    {
+        "code": "023000",
+        "title": "Indsamling af vildtvoksende forstmateriale, undtagen træer"
+    },
+    {
+        "code": "024000",
+        "title": "Støtteaktiviteter i forbindelse med skovbrug"
+    },
+    {
+        "code": "031100",
+        "title": "Havfiskeri"
+    },
+    {
+        "code": "031200",
+        "title": "Ferskvandsfiskeri"
+    },
+    {
+        "code": "032100",
+        "title": "Havbrug"
+    },
+    {
+        "code": "032200",
+        "title": "Ferskvandsbrug"
+    },
+    {
+        "code": "033000",
+        "title": "Støtteaktiviteter i forbindelse med fiskeri og akvakultur"
+    },
+    {
+        "code": "051000",
+        "title": "Indvinding af stenkul"
+    },
+    {
+        "code": "052000",
+        "title": "Indvinding af brunkul"
+    },
+    {
+        "code": "061000",
+        "title": "Indvinding af råolie"
+    },
+    {
+        "code": "062000",
+        "title": "Indvinding af naturgas"
+    },
+    {
+        "code": "071000",
+        "title": "Brydning af jernmalm"
+    },
+    {
+        "code": "072100",
+        "title": "Brydning af uran- og thoriummalme"
+    },
+    {
+        "code": "072900",
+        "title": "Brydning af andre ikke-jernholdige metalmalme"
+    },
+    {
+        "code": "081100",
+        "title": "Brydning af pyntesten, kalksten, gips, skifer mv."
+    },
+    {
+        "code": "081200",
+        "title": "Grus- og sandgravning og indvinding af ler og kaolin"
+    },
+    {
+        "code": "089100",
+        "title": "Indvinding af mineraler til fremstilling af kemiske produkter og gødningsstoffer"
+    },
+    {
+        "code": "089200",
+        "title": "Indvinding af tørv"
+    },
+    {
+        "code": "089300",
+        "title": "Saltindvinding"
+    },
+    {
+        "code": "089900",
+        "title": "Anden råstofindvinding i.a.n."
+    },
+    {
+        "code": "091000",
+        "title": "Støtteaktiviteter i forbindelse med indvinding af råolie og naturgas"
+    },
+    {
+        "code": "099000",
+        "title": "Støtteaktiviteter i forbindelse med anden råstofindvinding"
+    },
+    {
+        "code": "101110",
+        "title": "Forarbejdning af svinekød"
+    },
+    {
+        "code": "101190",
+        "title": "Forarbejdning af andet kød"
+    },
+    {
+        "code": "101200",
+        "title": "Forarbejdning og konservering af fjerkrækød"
+    },
+    {
+        "code": "101300",
+        "title": "Fremstilling af kød- og fjerkrækødprodukter"
+    },
+    {
+        "code": "102010",
+        "title": "Fremstilling af fiskemel"
+    },
+    {
+        "code": "102020",
+        "title": "Forarbejdning og konservering af fisk, krebsdyr og bløddyr, undtagen fiskemel"
+    },
+    {
+        "code": "103100",
+        "title": "Forarbejdning og konservering af kartofler"
+    },
+    {
+        "code": "103200",
+        "title": "Fremstilling af frugt- og grøntsagssaft"
+    },
+    {
+        "code": "103900",
+        "title": "Anden forarbejdning og konservering af frugt og grøntsager"
+    },
+    {
+        "code": "104100",
+        "title": "Fremstilling af olier og fedtstoffer"
+    },
+    {
+        "code": "104200",
+        "title": "Fremstilling af margarine o.lign. spiselige fedtstoffer"
+    },
+    {
+        "code": "105100",
+        "title": "Fremstilling af mejeriprodukter"
+    },
+    {
+        "code": "105200",
+        "title": "Fremstilling af konsumis"
+    },
+    {
+        "code": "106100",
+        "title": "Fremstilling af mølleriprodukter"
+    },
+    {
+        "code": "106200",
+        "title": "Fremstilling af stivelse og stivelsesprodukter"
+    },
+    {
+        "code": "107110",
+        "title": "Industriel fremstilling af brød og kager mv."
+    },
+    {
+        "code": "107120",
+        "title": "Fremstilling af friske bageriprodukter"
+    },
+    {
+        "code": "107200",
+        "title": "Fremstilling af tvebakker, kiks, konserverede kager, tærter mv."
+    },
+    {
+        "code": "107300",
+        "title": "Fremstilling af dejprodukter"
+    },
+    {
+        "code": "108100",
+        "title": "Fremstilling af sukker"
+    },
+    {
+        "code": "108200",
+        "title": "Fremstilling af kakao, chokolade og sukkervarer"
+    },
+    {
+        "code": "108300",
+        "title": "Forarbejdning af te og kaffe"
+    },
+    {
+        "code": "108400",
+        "title": "Fremstilling af smagspræparater og krydderier"
+    },
+    {
+        "code": "108500",
+        "title": "Fremstilling af færdigretter"
+    },
+    {
+        "code": "108600",
+        "title": "Fremstilling af homogeniserede produkter og diætmad"
+    },
+    {
+        "code": "108900",
+        "title": "Fremstilling af andre fødevarer i.a.n."
+    },
+    {
+        "code": "109100",
+        "title": "Fremstilling af færdige foderblandinger til landbrugsdyr"
+    },
+    {
+        "code": "109200",
+        "title": "Fremstilling af færdige foderblandinger til kæledyr"
+    },
+    {
+        "code": "110100",
+        "title": "Destillation, rektifikation og blanding af alkohol"
+    },
+    {
+        "code": "110200",
+        "title": "Fremstilling af vin af druer"
+    },
+    {
+        "code": "110300",
+        "title": "Fremstilling af cider og andre gærede drikkevarer af frugt"
+    },
+    {
+        "code": "110400",
+        "title": "Fremstilling af andre ikke-destillerede gærede drikkevarer"
+    },
+    {
+        "code": "110500",
+        "title": "Fremstilling af øl"
+    },
+    {
+        "code": "110600",
+        "title": "Fremstilling af malt"
+    },
+    {
+        "code": "110700",
+        "title": "Fremstilling af læskedrikke og vand på flaske"
+    },
+    {
+        "code": "120000",
+        "title": "Fremstilling af tobaksvarer"
+    },
+    {
+        "code": "131000",
+        "title": "Forbehandling og spinding af tekstilfibre"
+    },
+    {
+        "code": "132000",
+        "title": "Vævning af tekstiler"
+    },
+    {
+        "code": "133000",
+        "title": "Efterbehandling af tekstiler"
+    },
+    {
+        "code": "139100",
+        "title": "Fremstilling af trikotagestoffer"
+    },
+    {
+        "code": "139200",
+        "title": "Fremstilling af tekstiler til husholdningsbrug og færdige boligtekstiler"
+    },
+    {
+        "code": "139300",
+        "title": "Fremstilling af gulvtæpper og -måtter"
+    },
+    {
+        "code": "139400",
+        "title": "Fremstilling af reb, tovværk, sejlgarn og netstoffer"
+    },
+    {
+        "code": "139500",
+        "title": "Fremstilling af fiberdug og varer af fiberdug"
+    },
+    {
+        "code": "139600",
+        "title": "Fremstilling af andre tekniske og industrielle tekstiler"
+    },
+    {
+        "code": "139900",
+        "title": "Fremstilling af andre tekstiler i.a.n."
+    },
+    {
+        "code": "141000",
+        "title": "Fremstilling af strikkede og hæklede beklædningsartikler"
+    },
+    {
+        "code": "142100",
+        "title": "Fremstilling af yderbeklædning"
+    },
+    {
+        "code": "142200",
+        "title": "Fremstilling af underbeklædning"
+    },
+    {
+        "code": "142300",
+        "title": "Fremstilling af arbejdsbeklædning"
+    },
+    {
+        "code": "142400",
+        "title": "Fremstilling af beklædningsartikler af læder og pelsskind"
+    },
+    {
+        "code": "142900",
+        "title": "Fremstilling af andre beklædningsartikler samt tilbehør i.a.n."
+    },
+    {
+        "code": "151100",
+        "title": "Garvning, beredning og farvning af læder og pelsskind"
+    },
+    {
+        "code": "151200",
+        "title": "Fremstilling af tasker, kufferter, sadelmagervarer mv., uanset materialets art"
+    },
+    {
+        "code": "152000",
+        "title": "Fremstilling af fodtøj"
+    },
+    {
+        "code": "161100",
+        "title": "Udsavning og høvling af træ"
+    },
+    {
+        "code": "161200",
+        "title": "Forarbejdning og færdigbearbejdning af træ"
+    },
+    {
+        "code": "162100",
+        "title": "Fremstilling af finerplader og træbaserede plader"
+    },
+    {
+        "code": "162200",
+        "title": "Fremstilling af sammensatte parketstave"
+    },
+    {
+        "code": "162300",
+        "title": "Fremstilling af bygningstømmer og snedkeriartikler i øvrigt"
+    },
+    {
+        "code": "162400",
+        "title": "Fremstilling af træemballage"
+    },
+    {
+        "code": "162500",
+        "title": "Fremstilling af døre og vinduer af træ"
+    },
+    {
+        "code": "162600",
+        "title": "Fremstilling af fast brændsel på basis af vegetabilsk biomasse"
+    },
+    {
+        "code": "162700",
+        "title": "Færdigbearbejdning af trævarer"
+    },
+    {
+        "code": "162800",
+        "title": "Fremstilling af andre trævarer og varer af kork, strå og flettematerialer"
+    },
+    {
+        "code": "171100",
+        "title": "Fremstilling af papirmasse"
+    },
+    {
+        "code": "171200",
+        "title": "Fremstilling af papir og pap"
+    },
+    {
+        "code": "172100",
+        "title": "Fremstilling af bølgepap, pap og emballage af papir og pap"
+    },
+    {
+        "code": "172200",
+        "title": "Fremstilling af husholdningsartikler og hygiejneartikler samt toiletartikler af papir og pap"
+    },
+    {
+        "code": "172300",
+        "title": "Fremstilling af kontorartikler af papir"
+    },
+    {
+        "code": "172400",
+        "title": "Fremstilling af tapet"
+    },
+    {
+        "code": "172500",
+        "title": "Fremstilling af andre papir- og papvarer"
+    },
+    {
+        "code": "181100",
+        "title": "Trykning af dagblade"
+    },
+    {
+        "code": "181200",
+        "title": "Anden trykning"
+    },
+    {
+        "code": "181300",
+        "title": "Prepress- og premedia-arbejde"
+    },
+    {
+        "code": "181400",
+        "title": "Bogbinding og lignende serviceydelser"
+    },
+    {
+        "code": "182000",
+        "title": "Reproduktion af indspillede medier"
+    },
+    {
+        "code": "191000",
+        "title": "Fremstilling af koksovnsprodukter"
+    },
+    {
+        "code": "192000",
+        "title": "Fremstilling af raffinerede mineralolieprodukter og fossile brændstoffer"
+    },
+    {
+        "code": "201100",
+        "title": "Fremstilling af industrigasser"
+    },
+    {
+        "code": "201200",
+        "title": "Fremstilling af farvestoffer og pigmenter"
+    },
+    {
+        "code": "201300",
+        "title": "Fremstilling af andre uorganiske basiskemikalier"
+    },
+    {
+        "code": "201400",
+        "title": "Fremstilling af andre organiske basiskemikalier"
+    },
+    {
+        "code": "201500",
+        "title": "Fremstilling af gødningsstoffer og nitrogenprodukter"
+    },
+    {
+        "code": "201600",
+        "title": "Fremstilling af plast i ubearbejdet form"
+    },
+    {
+        "code": "201700",
+        "title": "Fremstilling af syntetisk gummi i ubearbejdet form"
+    },
+    {
+        "code": "202000",
+        "title": "Fremstilling af pesticider, desinfektionsmidler og andre agrokemiske produkter"
+    },
+    {
+        "code": "203000",
+        "title": "Fremstilling af maling, lak og lignende overfladebehandlingsmidler, trykfarver samt tætningsmaterialer"
+    },
+    {
+        "code": "204100",
+        "title": "Fremstilling af sæbe, rengørings- og rensemidler samt poleremidler"
+    },
+    {
+        "code": "204200",
+        "title": "Fremstilling af parfume, hårshampoo, tandpasta mv."
+    },
+    {
+        "code": "205100",
+        "title": "Fremstilling af flydende biobrændstoffer"
+    },
+    {
+        "code": "205900",
+        "title": "Fremstilling af andre kemiske produkter i.a.n."
+    },
+    {
+        "code": "206000",
+        "title": "Fremstilling af kemofibre"
+    },
+    {
+        "code": "211000",
+        "title": "Fremstilling af farmaceutiske råvarer"
+    },
+    {
+        "code": "212000",
+        "title": "Fremstilling af farmaceutiske præparater"
+    },
+    {
+        "code": "221100",
+        "title": "Fremstilling og vulkanisering af gummidæk og fremstilling af gummislanger"
+    },
+    {
+        "code": "221200",
+        "title": "Fremstilling af andre gummiprodukter"
+    },
+    {
+        "code": "222100",
+        "title": "Fremstilling af plader, ark, rør og slanger samt profiler af plast"
+    },
+    {
+        "code": "222200",
+        "title": "Fremstilling af plastemballage"
+    },
+    {
+        "code": "222300",
+        "title": "Fremstilling af døre og vinduer af plast"
+    },
+    {
+        "code": "222400",
+        "title": "Fremstilling af bygningsartikler af plast"
+    },
+    {
+        "code": "222500",
+        "title": "Forarbejdning og færdigbehandling af plastprodukter"
+    },
+    {
+        "code": "222600",
+        "title": "Fremstilling af andre plastprodukter"
+    },
+    {
+        "code": "231100",
+        "title": "Fremstilling af planglas"
+    },
+    {
+        "code": "231200",
+        "title": "Formning og forarbejdning af planglas"
+    },
+    {
+        "code": "231300",
+        "title": "Fremstilling af flasker, drikkeglas mv."
+    },
+    {
+        "code": "231400",
+        "title": "Fremstilling af glasfiber"
+    },
+    {
+        "code": "231500",
+        "title": "Fremstilling og bearbejdning af andet glas, herunder teknisk glas"
+    },
+    {
+        "code": "232000",
+        "title": "Fremstilling af ildfaste produkter"
+    },
+    {
+        "code": "233100",
+        "title": "Fremstilling af keramiske teglsten og gulvfliser"
+    },
+    {
+        "code": "233200",
+        "title": "Fremstilling af mursten, teglsten og byggematerialer af brændt ler"
+    },
+    {
+        "code": "234100",
+        "title": "Fremstilling af keramiske husholdningsartikler og pyntegenstande"
+    },
+    {
+        "code": "234200",
+        "title": "Fremstilling af keramiske sanitetsartikler"
+    },
+    {
+        "code": "234300",
+        "title": "Fremstilling af keramiske isolatorer og isoleringsdele"
+    },
+    {
+        "code": "234400",
+        "title": "Fremstilling af andre keramiske produkter til teknisk brug"
+    },
+    {
+        "code": "234500",
+        "title": "Fremstilling af andre keramiske produkter"
+    },
+    {
+        "code": "235100",
+        "title": "Fremstilling af cement"
+    },
+    {
+        "code": "235200",
+        "title": "Fremstilling af kalk og gips"
+    },
+    {
+        "code": "236100",
+        "title": "Fremstilling af byggematerialer af beton"
+    },
+    {
+        "code": "236200",
+        "title": "Fremstilling af byggematerialer af gips"
+    },
+    {
+        "code": "236300",
+        "title": "Fremstilling af færdigblandet beton"
+    },
+    {
+        "code": "236400",
+        "title": "Fremstilling af mørtel"
+    },
+    {
+        "code": "236500",
+        "title": "Fremstilling af fibercement"
+    },
+    {
+        "code": "236600",
+        "title": "Fremstilling af andre produkter af beton, cement og gips"
+    },
+    {
+        "code": "237000",
+        "title": "Tilhugning, tilskæring og færdigbearbejdning af sten"
+    },
+    {
+        "code": "239100",
+        "title": "Fremstilling af slibemidler"
+    },
+    {
+        "code": "239910",
+        "title": "Fremstilling af asfalt og tagpap"
+    },
+    {
+        "code": "239990",
+        "title": "Fremstilling af andre ikke-metalholdige mineralske produkter, bortset fra asfalt og tagpap"
+    },
+    {
+        "code": "241000",
+        "title": "Fremstilling af råjern og råstål samt jernlegeringer"
+    },
+    {
+        "code": "242000",
+        "title": "Fremstilling af rør, hule profiler og tilhørende fittings af stål"
+    },
+    {
+        "code": "243100",
+        "title": "Fremstilling af stænger ved koldtrækning"
+    },
+    {
+        "code": "243200",
+        "title": "Fremstilling af stålbånd ved koldvalsning"
+    },
+    {
+        "code": "243300",
+        "title": "Koldbehandling"
+    },
+    {
+        "code": "243400",
+        "title": "Fremstilling af tråd ved koldtrækning"
+    },
+    {
+        "code": "244100",
+        "title": "Fremstilling af ædelmetaller"
+    },
+    {
+        "code": "244200",
+        "title": "Fremstilling af aluminium"
+    },
+    {
+        "code": "244300",
+        "title": "Fremstilling af bly, zink og tin"
+    },
+    {
+        "code": "244400",
+        "title": "Fremstilling af kobber"
+    },
+    {
+        "code": "244500",
+        "title": "Anden fremstilling af ikke-jernholdige metaller"
+    },
+    {
+        "code": "244600",
+        "title": "Oparbejdning af nukleart brændsel"
+    },
+    {
+        "code": "245100",
+        "title": "Støbning af jernprodukter"
+    },
+    {
+        "code": "245200",
+        "title": "Støbning af stålprodukter"
+    },
+    {
+        "code": "245300",
+        "title": "Støbning af letmetalprodukter"
+    },
+    {
+        "code": "245400",
+        "title": "Støbning af andre ikke-jernholdige metalprodukter"
+    },
+    {
+        "code": "251100",
+        "title": "Fremstilling af metalkonstruktioner og dele heraf"
+    },
+    {
+        "code": "251200",
+        "title": "Fremstilling af døre og vinduer af metal"
+    },
+    {
+        "code": "252100",
+        "title": "Fremstilling af radiatorer, damp- og fyringskedler til centralvarmeanlæg"
+    },
+    {
+        "code": "252200",
+        "title": "Fremstilling af andre tanke og beholdere af metal"
+    },
+    {
+        "code": "253000",
+        "title": "Fremstilling af våben og ammunition"
+    },
+    {
+        "code": "254000",
+        "title": "Smedning og valsning af metal samt pulvermetallurgi"
+    },
+    {
+        "code": "255100",
+        "title": "Overfladebehandling af metal"
+    },
+    {
+        "code": "255200",
+        "title": "Varmebehandling af metal"
+    },
+    {
+        "code": "255300",
+        "title": "Maskinforarbejdning af metal"
+    },
+    {
+        "code": "256100",
+        "title": "Fremstilling af bestik, skære- og klipperedskaber"
+    },
+    {
+        "code": "256200",
+        "title": "Fremstilling af låse og hængsler"
+    },
+    {
+        "code": "256300",
+        "title": "Fremstilling af håndværktøj"
+    },
+    {
+        "code": "259100",
+        "title": "Fremstilling af metaltønder og lignende beholdere"
+    },
+    {
+        "code": "259200",
+        "title": "Fremstilling af letmetalemballage"
+    },
+    {
+        "code": "259300",
+        "title": "Fremstilling af trådvarer, kæder og fjedre"
+    },
+    {
+        "code": "259400",
+        "title": "Fremstilling af lukkeanordninger, bolte, skruer og møtrikker"
+    },
+    {
+        "code": "259900",
+        "title": "Fremstilling af andre færdige metalprodukter i.a.n."
+    },
+    {
+        "code": "261100",
+        "title": "Fremstilling af elektroniske komponenter"
+    },
+    {
+        "code": "261200",
+        "title": "Fremstilling af printplader o.lign."
+    },
+    {
+        "code": "262000",
+        "title": "Fremstilling af computere og ydre enheder"
+    },
+    {
+        "code": "263000",
+        "title": "Fremstilling af kommunikationsudstyr"
+    },
+    {
+        "code": "264000",
+        "title": "Fremstilling af elektronik til husholdninger"
+    },
+    {
+        "code": "265100",
+        "title": "Fremstilling af instrumenter og udstyr til måling, afprøvning og navigation"
+    },
+    {
+        "code": "265200",
+        "title": "Fremstilling af ure"
+    },
+    {
+        "code": "266010",
+        "title": "Fremstilling af høreapparater og dele hertil"
+    },
+    {
+        "code": "266090",
+        "title": "Fremstilling af bestrålingsudstyr og elektromedicinsk og elektroterapeutisk udstyr"
+    },
+    {
+        "code": "267000",
+        "title": "Fremstilling af optiske instrumenter, magnetiske og optiske medier og fotografisk udstyr"
+    },
+    {
+        "code": "271100",
+        "title": "Fremstilling af elektriske motorer, generatorer og transformatorer"
+    },
+    {
+        "code": "271200",
+        "title": "Fremstilling af elektriske fordelings- og kontrolapparater"
+    },
+    {
+        "code": "272000",
+        "title": "Fremstilling af batterier og akkumulatorer"
+    },
+    {
+        "code": "273100",
+        "title": "Fremstilling af lyslederkabler"
+    },
+    {
+        "code": "273200",
+        "title": "Fremstilling af andre elektroniske og elektriske ledninger og kabler"
+    },
+    {
+        "code": "273300",
+        "title": "Fremstilling af tilbehør til ledninger og kabler"
+    },
+    {
+        "code": "274000",
+        "title": "Fremstilling af belysningsartikler"
+    },
+    {
+        "code": "275100",
+        "title": "Fremstilling af elektriske husholdningsapparater"
+    },
+    {
+        "code": "275200",
+        "title": "Fremstilling af ikke-elektriske husholdningsapparater"
+    },
+    {
+        "code": "279000",
+        "title": "Fremstilling af andet elektrisk udstyr"
+    },
+    {
+        "code": "281100",
+        "title": "Fremstilling af motorer og turbiner, undtagen motorer til flyvemaskiner, motorkøretøjer og knallerter"
+    },
+    {
+        "code": "281200",
+        "title": "Fremstilling af hydraulisk udstyr"
+    },
+    {
+        "code": "281300",
+        "title": "Fremstilling af andre pumper og kompressorer"
+    },
+    {
+        "code": "281400",
+        "title": "Fremstilling af andre haner og ventiler"
+    },
+    {
+        "code": "281500",
+        "title": "Fremstilling af lejer, tandhjul, tandhjulsudvekslinger og drivelementer"
+    },
+    {
+        "code": "282100",
+        "title": "Fremstilling af ovne, ildsteder og fyringsaggregater til boligopvarmning"
+    },
+    {
+        "code": "282200",
+        "title": "Fremstilling af løfte- og håndteringsudstyr"
+    },
+    {
+        "code": "282300",
+        "title": "Fremstilling af kontormaskiner og -udstyr, undtagen computere og ydre enheder"
+    },
+    {
+        "code": "282400",
+        "title": "Fremstilling af motordrevet håndværktøj"
+    },
+    {
+        "code": "282500",
+        "title": "Fremstilling af klimaanlæg, ikke til husholdningsbrug"
+    },
+    {
+        "code": "282900",
+        "title": "Fremstilling af andre maskiner til generelle formål i.a.n."
+    },
+    {
+        "code": "283000",
+        "title": "Fremstilling af landbrugs- og skovbrugsmaskiner"
+    },
+    {
+        "code": "284100",
+        "title": "Fremstilling af metalforarbejdende maskiner og maskinværktøj til bearbejdning af metal"
+    },
+    {
+        "code": "284200",
+        "title": "Fremstilling af andet maskinværktøj"
+    },
+    {
+        "code": "289100",
+        "title": "Fremstilling af maskiner til metallurgi"
+    },
+    {
+        "code": "289200",
+        "title": "Fremstilling af maskiner til råstofindvindingsindustrien samt bygge- og anlæg"
+    },
+    {
+        "code": "289300",
+        "title": "Fremstilling af maskiner til føde-, drikke- og tobaksvareindustrien"
+    },
+    {
+        "code": "289400",
+        "title": "Fremstilling af maskiner til produktion af tekstiler, beklædningsartikler og læder"
+    },
+    {
+        "code": "289500",
+        "title": "Fremstilling af maskiner til produktion af papir og pap"
+    },
+    {
+        "code": "289600",
+        "title": "Fremstilling af maskiner til produktion af plast og gummi"
+    },
+    {
+        "code": "289700",
+        "title": "Fremstilling af maskiner til additiv fremstilling"
+    },
+    {
+        "code": "289900",
+        "title": "Fremstilling af andre maskiner til specielle formål i.a.n."
+    },
+    {
+        "code": "291000",
+        "title": "Fremstilling af motorkøretøjer"
+    },
+    {
+        "code": "292000",
+        "title": "Fremstilling af karosserier til motorkøretøjer; fremstilling af påhængsvogne og sættevogne"
+    },
+    {
+        "code": "293100",
+        "title": "Fremstilling af elektrisk og elektronisk udstyr til motorkøretøjer"
+    },
+    {
+        "code": "293200",
+        "title": "Fremstilling af andre dele og tilbehør til motorkøretøjer"
+    },
+    {
+        "code": "301100",
+        "title": "Bygning af civile skibe og flydende materiel"
+    },
+    {
+        "code": "301200",
+        "title": "Bygning af både til fritid og sport"
+    },
+    {
+        "code": "301300",
+        "title": "Bygning af militærfartøjer"
+    },
+    {
+        "code": "302000",
+        "title": "Fremstilling af lokomotiver og andet rullende materiel til jernbaner og sporveje"
+    },
+    {
+        "code": "303100",
+        "title": "Fremstilling af civile luft- og rumfartøjer o.lign."
+    },
+    {
+        "code": "303200",
+        "title": "Fremstilling af militære luft- og rumfartøjer o.lign."
+    },
+    {
+        "code": "304000",
+        "title": "Fremstilling af militære kampkøretøjer"
+    },
+    {
+        "code": "309100",
+        "title": "Fremstilling af motorcykler"
+    },
+    {
+        "code": "309200",
+        "title": "Fremstilling af cykler og kørestole"
+    },
+    {
+        "code": "309900",
+        "title": "Fremstilling af andre transportmidler i.a.n."
+    },
+    {
+        "code": "310000",
+        "title": "Fremstilling af møbler"
+    },
+    {
+        "code": "321100",
+        "title": "Prægning af mønter"
+    },
+    {
+        "code": "321200",
+        "title": "Fremstilling af smykker og lignende varer"
+    },
+    {
+        "code": "321300",
+        "title": "Fremstilling af bijouteri og lignende varer"
+    },
+    {
+        "code": "322000",
+        "title": "Fremstilling af musikinstrumenter"
+    },
+    {
+        "code": "323000",
+        "title": "Fremstilling af sportsudstyr"
+    },
+    {
+        "code": "324000",
+        "title": "Fremstilling af spil og legetøj"
+    },
+    {
+        "code": "325000",
+        "title": "Fremstilling af medicinske og dentale instrumenter samt udstyr hertil"
+    },
+    {
+        "code": "329100",
+        "title": "Fremstilling af koste og børster"
+    },
+    {
+        "code": "329900",
+        "title": "Andre fremstillingsaktiviteter i.a.n."
+    },
+    {
+        "code": "331100",
+        "title": "Reparation og vedligeholdelse af færdige metalprodukter"
+    },
+    {
+        "code": "331200",
+        "title": "Reparation og vedligeholdelse af maskiner"
+    },
+    {
+        "code": "331300",
+        "title": "Reparation og vedligeholdelse af elektronisk og optisk udstyr"
+    },
+    {
+        "code": "331400",
+        "title": "Reparation og vedligeholdelse af elektrisk udstyr"
+    },
+    {
+        "code": "331500",
+        "title": "Reparation og vedligeholdelse af civile skibe og både"
+    },
+    {
+        "code": "331600",
+        "title": "Reparation og vedligeholdelse af civile luft- og rumfartøjer"
+    },
+    {
+        "code": "331700",
+        "title": "Reparation og vedligeholdelse af andre civile transportmidler"
+    },
+    {
+        "code": "331800",
+        "title": "Reparation og vedligeholdelse af militære kampkøretøjer, skibe, både og luft- og rumfartøjer"
+    },
+    {
+        "code": "331900",
+        "title": "Reparation og vedligeholdelse af andet udstyr"
+    },
+    {
+        "code": "332000",
+        "title": "Installation af industrimaskiner og -udstyr"
+    },
+    {
+        "code": "351100",
+        "title": "Produktion af elektricitet fra ikke-vedvarende energikilder"
+    },
+    {
+        "code": "351200",
+        "title": "Produktion af elektricitet fra vedvarende energikilder"
+    },
+    {
+        "code": "351300",
+        "title": "Transmission af elektricitet"
+    },
+    {
+        "code": "351400",
+        "title": "Distribution af elektricitet"
+    },
+    {
+        "code": "351510",
+        "title": "Handel med elektricitet via ladestationer o. lign."
+    },
+    {
+        "code": "351590",
+        "title": "Anden handel med elektricitet"
+    },
+    {
+        "code": "351600",
+        "title": "Lagring af elektricitet"
+    },
+    {
+        "code": "352100",
+        "title": "Produktion af gas"
+    },
+    {
+        "code": "352200",
+        "title": "Distribution af gas"
+    },
+    {
+        "code": "352300",
+        "title": "Handel med gas gennem rørledninger"
+    },
+    {
+        "code": "352400",
+        "title": "Oplagring af gas i forbindelse med drift af forsyningsnet"
+    },
+    {
+        "code": "353000",
+        "title": "Fjernvarmeforsyning"
+    },
+    {
+        "code": "354000",
+        "title": "Mægler- og agentaktiviteter i forbindelse med forsyning af elektricitet og naturgas"
+    },
+    {
+        "code": "360000",
+        "title": "Vandforsyning"
+    },
+    {
+        "code": "370000",
+        "title": "Opsamling og behandling af spildevand"
+    },
+    {
+        "code": "381100",
+        "title": "Indsamling af ikke-farligt affald"
+    },
+    {
+        "code": "381200",
+        "title": "Indsamling af farligt affald"
+    },
+    {
+        "code": "382100",
+        "title": "Genindvinding af materialer"
+    },
+    {
+        "code": "382200",
+        "title": "Energiudnyttelse af affald"
+    },
+    {
+        "code": "382300",
+        "title": "Anden nyttiggørelse af affald"
+    },
+    {
+        "code": "383100",
+        "title": "Forbrænding uden energiudnyttelse"
+    },
+    {
+        "code": "383200",
+        "title": "Deponering eller permanent oplagring"
+    },
+    {
+        "code": "383300",
+        "title": "Anden bortskaffelse af affald"
+    },
+    {
+        "code": "390000",
+        "title": "Rensning af jord og grundvand og anden dekontaminering"
+    },
+    {
+        "code": "410000",
+        "title": "Opførelse af bygninger"
+    },
+    {
+        "code": "421100",
+        "title": "Anlæg af veje og motorveje"
+    },
+    {
+        "code": "421200",
+        "title": "Anlæg af jernbaner og undergrundsbaner"
+    },
+    {
+        "code": "421300",
+        "title": "Anlæg af broer og tunneller"
+    },
+    {
+        "code": "422100",
+        "title": "Anlæg af ledningsnet til væsker"
+    },
+    {
+        "code": "422200",
+        "title": "Anlæg af ledningsnet til elektricitet og telekommunikation"
+    },
+    {
+        "code": "429100",
+        "title": "Anlæg af vandveje, havne, diger, dæmninger mv."
+    },
+    {
+        "code": "429900",
+        "title": "Andre anlægsaktiviteter i.a.n."
+    },
+    {
+        "code": "431100",
+        "title": "Nedrivning"
+    },
+    {
+        "code": "431200",
+        "title": "Forberedende byggepladsarbejder"
+    },
+    {
+        "code": "431300",
+        "title": "Funderingsundersøgelser"
+    },
+    {
+        "code": "432100",
+        "title": "El-installation"
+    },
+    {
+        "code": "432200",
+        "title": "Installation af vvs-, varme- og klimaanlæg"
+    },
+    {
+        "code": "432300",
+        "title": "Installation af isolering"
+    },
+    {
+        "code": "432400",
+        "title": "Andre bygningsinstallationsaktiviteter"
+    },
+    {
+        "code": "433100",
+        "title": "Stukkatøraktiviteter"
+    },
+    {
+        "code": "433200",
+        "title": "Tømrer- og bygningssnedkeraktiviteter"
+    },
+    {
+        "code": "433300",
+        "title": "Udførelse af gulvbelægninger og vægbeklædning"
+    },
+    {
+        "code": "433410",
+        "title": "Maleraktiviteter"
+    },
+    {
+        "code": "433420",
+        "title": "Glarmesteraktiviteter"
+    },
+    {
+        "code": "433500",
+        "title": "Anden bygningsfærdiggørelse"
+    },
+    {
+        "code": "434100",
+        "title": "Tagdækningsaktiviteter"
+    },
+    {
+        "code": "434200",
+        "title": "Andre specialiserede bygningsarbejder"
+    },
+    {
+        "code": "435000",
+        "title": "Specialiserede anlægsaktiviteter"
+    },
+    {
+        "code": "436000",
+        "title": "Formidlingsaktiviteter i forbindelse med specialiserede bygge- og anlægsarbejder"
+    },
+    {
+        "code": "439100",
+        "title": "Murerarbejde"
+    },
+    {
+        "code": "439900",
+        "title": "Andre specialiserede byggeaktiviteter i.a.n."
+    },
+    {
+        "code": "461100",
+        "title": "Agenturhandel med landbrugsråvarer, levende dyr, tekstilråvarer og halvfabrikata"
+    },
+    {
+        "code": "461200",
+        "title": "Agenturhandel med brændstoffer, malme, metaller og kemiske produkter til industrien"
+    },
+    {
+        "code": "461300",
+        "title": "Agenturhandel med tømmer og andre byggematerialer"
+    },
+    {
+        "code": "461400",
+        "title": "Agenturhandel med maskiner, teknisk udstyr, skibe og flyvemaskiner"
+    },
+    {
+        "code": "461500",
+        "title": "Agenturhandel med møbler, husholdningsartikler og isenkram"
+    },
+    {
+        "code": "461600",
+        "title": "Agenturhandel med tekstiler, beklædning, pelsværk, fodtøj og lædervarer"
+    },
+    {
+        "code": "461710",
+        "title": "Fiskeauktioner"
+    },
+    {
+        "code": "461790",
+        "title": "Anden agenturhandel med føde-, drikke- og tobaksvarer"
+    },
+    {
+        "code": "461810",
+        "title": "Agenturhandel med motorcykler, biler, busser og trailere mv."
+    },
+    {
+        "code": "461890",
+        "title": "Agenturhandel med specialiseret varesortiment, bortset fra køretøjer"
+    },
+    {
+        "code": "461900",
+        "title": "Agenturhandel med ikke-specialiseret varesortiment"
+    },
+    {
+        "code": "462100",
+        "title": "Engroshandel med korn, uforarbejdet tobak, såsæd og foderstoffer"
+    },
+    {
+        "code": "462200",
+        "title": "Engroshandel med blomster og planter"
+    },
+    {
+        "code": "462300",
+        "title": "Engroshandel med levende dyr"
+    },
+    {
+        "code": "462400",
+        "title": "Engroshandel med huder, skind og læder"
+    },
+    {
+        "code": "463100",
+        "title": "Engroshandel med frugt og grøntsager"
+    },
+    {
+        "code": "463210",
+        "title": "Engroshandel med kød og kødprodukter"
+    },
+    {
+        "code": "463220",
+        "title": "Engroshandel med fisk og fiskeprodukter"
+    },
+    {
+        "code": "463300",
+        "title": "Engroshandel med mejeriprodukter, æg samt spiselige olier og fedtstoffer"
+    },
+    {
+        "code": "463410",
+        "title": "Engroshandel med øl, mineralvand, frugt- og grøntsagssaft"
+    },
+    {
+        "code": "463420",
+        "title": "Engroshandel med vin og spiritus"
+    },
+    {
+        "code": "463500",
+        "title": "Engroshandel med tobaksvarer"
+    },
+    {
+        "code": "463600",
+        "title": "Engroshandel med sukker, chokolade og sukkervarer"
+    },
+    {
+        "code": "463700",
+        "title": "Engroshandel med kaffe, te, kakao og krydderier"
+    },
+    {
+        "code": "463800",
+        "title": "Engroshandel med andre fødevarer"
+    },
+    {
+        "code": "463900",
+        "title": "Ikke-specialiseret engroshandel med føde-, drikke- og tobaksvarer"
+    },
+    {
+        "code": "464100",
+        "title": "Engroshandel med tekstiler"
+    },
+    {
+        "code": "464210",
+        "title": "Engroshandel med beklædning"
+    },
+    {
+        "code": "464220",
+        "title": "Engroshandel med fodtøj"
+    },
+    {
+        "code": "464310",
+        "title": "Engroshandel med hvidevarer og elektriske husholdningsartikler"
+    },
+    {
+        "code": "464320",
+        "title": "Engroshandel med radio og tv, fotografiske og optiske artikler"
+    },
+    {
+        "code": "464410",
+        "title": "Engroshandel med porcelæns- og glasvarer"
+    },
+    {
+        "code": "464420",
+        "title": "Engroshandel med rengøringsmidler"
+    },
+    {
+        "code": "464500",
+        "title": "Engroshandel med parfumerivarer og kosmetik"
+    },
+    {
+        "code": "464610",
+        "title": "Engroshandel med medicinalvarer og sygeplejeartikler"
+    },
+    {
+        "code": "464620",
+        "title": "Engroshandel med læge- og hospitalsartikler"
+    },
+    {
+        "code": "464700",
+        "title": "Engroshandel med møbler til bolig-, kontor- og butiksbrug, tæpper og belysningsartikler"
+    },
+    {
+        "code": "464800",
+        "title": "Engroshandel med ure og smykker"
+    },
+    {
+        "code": "464910",
+        "title": "Engroshandel med cykler, sportsartikler og lystbåde"
+    },
+    {
+        "code": "464920",
+        "title": "Engroshandel med bøger, papir og papirvarer"
+    },
+    {
+        "code": "464930",
+        "title": "Engroshandel med kufferter og lædervarer"
+    },
+    {
+        "code": "464990",
+        "title": "Engroshandel med andre husholdningsartikler i.a.n."
+    },
+    {
+        "code": "465000",
+        "title": "Engroshandel med informations- og kommunikationsudstyr"
+    },
+    {
+        "code": "466100",
+        "title": "Engroshandel med landbrugsmaskiner, -udstyr og tilbehør hertil"
+    },
+    {
+        "code": "466200",
+        "title": "Engroshandel med værktøjsmaskiner"
+    },
+    {
+        "code": "466300",
+        "title": "Engroshandel med maskiner til minedrift og bygge- og anlægsaktiviteter"
+    },
+    {
+        "code": "466400",
+        "title": "Engroshandel med andre maskiner og andet udstyr"
+    },
+    {
+        "code": "467100",
+        "title": "Engroshandel med motorkøretøjer"
+    },
+    {
+        "code": "467200",
+        "title": "Engroshandel med reservedele og tilbehør til motorkøretøjer"
+    },
+    {
+        "code": "467300",
+        "title": "Engroshandel med motorcykler samt reservedele og tilbehør dertil"
+    },
+    {
+        "code": "468100",
+        "title": "Engroshandel med fast, flydende og luftformigt brændstof og lignende varer"
+    },
+    {
+        "code": "468200",
+        "title": "Engroshandel med metaller og metalmalme"
+    },
+    {
+        "code": "468300",
+        "title": "Engroshandel med træ og byggematerialer samt sanitetsartikler"
+    },
+    {
+        "code": "468400",
+        "title": "Engroshandel med isenkram, varmeanlæg og tilbehør"
+    },
+    {
+        "code": "468500",
+        "title": "Engroshandel med kemiske produkter"
+    },
+    {
+        "code": "468600",
+        "title": "Engroshandel med andre råvarer og halvfabrikata"
+    },
+    {
+        "code": "468700",
+        "title": "Engroshandel med affaldsprodukter"
+    },
+    {
+        "code": "468900",
+        "title": "Anden specialiseret engroshandel i.a.n."
+    },
+    {
+        "code": "469000",
+        "title": "Ikke-specialiseret engroshandel"
+    },
+    {
+        "code": "471110",
+        "title": "Detailhandel med kioskvarer"
+    },
+    {
+        "code": "471120",
+        "title": "Detailhandel med dagligvarer i supermarkeder og købmandsbutikker"
+    },
+    {
+        "code": "471130",
+        "title": "Detailhandel med dagligvarer i discountsupermarkeder"
+    },
+    {
+        "code": "471200",
+        "title": "Anden ikke-specialiseret detailhandel"
+    },
+    {
+        "code": "472100",
+        "title": "Detailhandel med frugt og grøntsager"
+    },
+    {
+        "code": "472200",
+        "title": "Detailhandel med kød og kødprodukter"
+    },
+    {
+        "code": "472300",
+        "title": "Detailhandel med fisk, krebsdyr og bløddyr"
+    },
+    {
+        "code": "472400",
+        "title": "Detailhandel med bagværk og konfekture"
+    },
+    {
+        "code": "472500",
+        "title": "Detailhandel med drikkevarer"
+    },
+    {
+        "code": "472600",
+        "title": "Detailhandel med tobaksvarer"
+    },
+    {
+        "code": "472700",
+        "title": "Detailhandel med andre fødevarer"
+    },
+    {
+        "code": "473000",
+        "title": "Detailhandel med motorbrændstoffer"
+    },
+    {
+        "code": "474000",
+        "title": "Detailhandel med informations- og kommunikationsudstyr"
+    },
+    {
+        "code": "475100",
+        "title": "Detailhandel med tekstiler"
+    },
+    {
+        "code": "475210",
+        "title": "Detailhandel med maling og tapet"
+    },
+    {
+        "code": "475220",
+        "title": "Detailhandel med byggematerialer og værktøj"
+    },
+    {
+        "code": "475300",
+        "title": "Detailhandel med tæpper, vægbeklædning og gulvbelægning"
+    },
+    {
+        "code": "475400",
+        "title": "Detailhandel med elektriske husholdningsapparater"
+    },
+    {
+        "code": "475510",
+        "title": "Detailhandel med møbler"
+    },
+    {
+        "code": "475520",
+        "title": "Detailhandel med bad- og køkkenelementer mv."
+    },
+    {
+        "code": "475530",
+        "title": "Detailhandel med køkkenudstyr og service mv."
+    },
+    {
+        "code": "475590",
+        "title": "Detailhandel med boligtekstiler, belysnings- og husholdningsartikler i.a.n."
+    },
+    {
+        "code": "476100",
+        "title": "Detailhandel med bøger"
+    },
+    {
+        "code": "476200",
+        "title": "Detailhandel med aviser og andre tidsskrifter samt kontorartikler"
+    },
+    {
+        "code": "476310",
+        "title": "Detailhandel med sports- og fritidsudstyr"
+    },
+    {
+        "code": "476320",
+        "title": "Detailhandel med cykler"
+    },
+    {
+        "code": "476330",
+        "title": "Detailhandel med lystbåde og udstyr hertil"
+    },
+    {
+        "code": "476400",
+        "title": "Detailhandel med spil og legetøj"
+    },
+    {
+        "code": "476910",
+        "title": "Detailhandel med musikinstrumenter"
+    },
+    {
+        "code": "476920",
+        "title": "Detailhandel med kunst mv."
+    },
+    {
+        "code": "476990",
+        "title": "Detailhandel med andre kulturelle artikler i.a.n"
+    },
+    {
+        "code": "477110",
+        "title": "Detailhandel med tøj"
+    },
+    {
+        "code": "477120",
+        "title": "Detailhandel med baby- og børnetøj"
+    },
+    {
+        "code": "477210",
+        "title": "Detailhandel med fodtøj"
+    },
+    {
+        "code": "477220",
+        "title": "Detailhandel med lædervarer"
+    },
+    {
+        "code": "477300",
+        "title": "Detailhandel med farmaceutiske produkter"
+    },
+    {
+        "code": "477410",
+        "title": "Optikeraktiviteter"
+    },
+    {
+        "code": "477420",
+        "title": "Detailhandel med andre medicinske og ortopædiske artikler"
+    },
+    {
+        "code": "477500",
+        "title": "Detailhandel med kosmetikvarer og toiletartikler"
+    },
+    {
+        "code": "477610",
+        "title": "Detailhandel med blomster og planter"
+    },
+    {
+        "code": "477620",
+        "title": "Detailhandel med kæledyr og udstyr til kæledyr"
+    },
+    {
+        "code": "477700",
+        "title": "Detailhandel med ure og smykker"
+    },
+    {
+        "code": "477800",
+        "title": "Detailhandel med andre nye varer"
+    },
+    {
+        "code": "477900",
+        "title": "Detailhandel med brugte varer"
+    },
+    {
+        "code": "478100",
+        "title": "Detailhandel med motorkøretøjer"
+    },
+    {
+        "code": "478200",
+        "title": "Detailhandel med reservedele og tilbehør til motorkøretøjer"
+    },
+    {
+        "code": "478300",
+        "title": "Detailhandel med motorcykler samt reservedele og tilbehør dertil"
+    },
+    {
+        "code": "479100",
+        "title": "Formidlingsaktiviteter inden for ikke-specialiseret detailhandel"
+    },
+    {
+        "code": "479200",
+        "title": "Formidlingsaktiviteter inden for specialiseret detailhandel"
+    },
+    {
+        "code": "491100",
+        "title": "Persontransport med regional- eller fjerntog"
+    },
+    {
+        "code": "491200",
+        "title": "Persontransport med nærbane"
+    },
+    {
+        "code": "492000",
+        "title": "Godstransport med tog"
+    },
+    {
+        "code": "493100",
+        "title": "Passagertransport ad vej med fast køreplan"
+    },
+    {
+        "code": "493200",
+        "title": "Passagertransport ad vej uden fast køreplan"
+    },
+    {
+        "code": "493300",
+        "title": "Passagertransport på bestilling i køretøj med chauffør"
+    },
+    {
+        "code": "493400",
+        "title": "Passagertransport med tovbaner og skilifter"
+    },
+    {
+        "code": "493900",
+        "title": "Anden landpassagertransport i.a.n."
+    },
+    {
+        "code": "494100",
+        "title": "Vejgodstransport"
+    },
+    {
+        "code": "494200",
+        "title": "Flytteaktiviteter"
+    },
+    {
+        "code": "495000",
+        "title": "Rørtransport"
+    },
+    {
+        "code": "501000",
+        "title": "Sø- og kysttransport af passagerer"
+    },
+    {
+        "code": "502000",
+        "title": "Sø- og kysttransport af gods"
+    },
+    {
+        "code": "503000",
+        "title": "Transport af passagerer ad indre vandveje"
+    },
+    {
+        "code": "504000",
+        "title": "Transport af gods ad indre vandveje"
+    },
+    {
+        "code": "511010",
+        "title": "Passagertransport med rutefly"
+    },
+    {
+        "code": "511020",
+        "title": "Passagertransport med charter- og taxifly"
+    },
+    {
+        "code": "512100",
+        "title": "Lufttransport af gods"
+    },
+    {
+        "code": "512200",
+        "title": "Rumfart"
+    },
+    {
+        "code": "521000",
+        "title": "Oplagring og opbevaring"
+    },
+    {
+        "code": "522110",
+        "title": "Drift af stationer, godsterminaler mv."
+    },
+    {
+        "code": "522120",
+        "title": "Drift af parkering og vejhjælp mv."
+    },
+    {
+        "code": "522130",
+        "title": "Drift af betalingsveje, -broer og -tunneler"
+    },
+    {
+        "code": "522210",
+        "title": "Drift af erhvervshavne"
+    },
+    {
+        "code": "522220",
+        "title": "Drift af bugserings-, bjærgnings- og redningsvæsen mv."
+    },
+    {
+        "code": "522300",
+        "title": "Serviceydelser i forbindelse med luftfart"
+    },
+    {
+        "code": "522400",
+        "title": "Godshåndtering"
+    },
+    {
+        "code": "522500",
+        "title": "Serviceydelser i forbindelse med logistik"
+    },
+    {
+        "code": "522600",
+        "title": "Andre støtteaktiviteter i forbindelse med transport"
+    },
+    {
+        "code": "523100",
+        "title": "Formidlingsaktiviteter inden for godstransport"
+    },
+    {
+        "code": "523200",
+        "title": "Formidlingsaktiviteter inden for passagertransport"
+    },
+    {
+        "code": "531000",
+        "title": "Postaktiviteter omfattet af forsyningspligten"
+    },
+    {
+        "code": "532000",
+        "title": "Andre post- og kuréraktiviteter"
+    },
+    {
+        "code": "533000",
+        "title": "Formidlingsaktiviteter inden for post- og kuréraktiviteter"
+    },
+    {
+        "code": "551000",
+        "title": "Drift af hoteller og lignende overnatningsfaciliteter"
+    },
+    {
+        "code": "552000",
+        "title": "Drift af ferieboliger og andre overnatningsfaciliteter til kortvarige ophold"
+    },
+    {
+        "code": "553000",
+        "title": "Drift af campingpladser"
+    },
+    {
+        "code": "554000",
+        "title": "Formidlingsaktiviteter inden for overnatningsfaciliteter"
+    },
+    {
+        "code": "559000",
+        "title": "Andre overnatningsfaciliteter"
+    },
+    {
+        "code": "561110",
+        "title": "Servering af mad i restauranter og caféer"
+    },
+    {
+        "code": "561190",
+        "title": "Drift af øvrige spisesteder"
+    },
+    {
+        "code": "561200",
+        "title": "Drift af mobile madboder"
+    },
+    {
+        "code": "562100",
+        "title": "Event catering"
+    },
+    {
+        "code": "562200",
+        "title": "Catering på kontrakt og andre restaurationsaktiviteter"
+    },
+    {
+        "code": "563010",
+        "title": "Udskænkning af ikke-alkoholiske drikkevarer"
+    },
+    {
+        "code": "563020",
+        "title": "Udskænkning af alkoholiske drikkevarer"
+    },
+    {
+        "code": "564000",
+        "title": "Formidlingsaktiviteter i forbindelse med restaurationsaktiviteter"
+    },
+    {
+        "code": "581100",
+        "title": "Udgivelse af bøger"
+    },
+    {
+        "code": "581200",
+        "title": "Udgivelse af aviser og dagblade"
+    },
+    {
+        "code": "581300",
+        "title": "Udgivelse af ugeblade og magasiner"
+    },
+    {
+        "code": "581900",
+        "title": "Andre udgiveraktiviteter, undtagen udgivelse af software"
+    },
+    {
+        "code": "582100",
+        "title": "Udgivelse af videospil"
+    },
+    {
+        "code": "582900",
+        "title": "Anden udgivelse af software"
+    },
+    {
+        "code": "591100",
+        "title": "Produktion af film, videoer og TV-programmer"
+    },
+    {
+        "code": "591200",
+        "title": "Aktiviteter efter produktion af film, videoer og TV-programmer"
+    },
+    {
+        "code": "591300",
+        "title": "Distribution af film og videoer"
+    },
+    {
+        "code": "591400",
+        "title": "Fremvisning af film og andre billedmedier"
+    },
+    {
+        "code": "592000",
+        "title": "Indspilning af lydoptagelser og udgivelse af musik"
+    },
+    {
+        "code": "601000",
+        "title": "Radioaktiviteter og distribution af lydoptagelser"
+    },
+    {
+        "code": "602000",
+        "title": "Programskabelse, udgivelse og distribution af billedoptagelser"
+    },
+    {
+        "code": "603100",
+        "title": "Nyhedsbureauers aktiviteter"
+    },
+    {
+        "code": "603900",
+        "title": "Anden distribution af medieindhold"
+    },
+    {
+        "code": "611000",
+        "title": "Levering af fastnetbaseret, trådløs og satellitbaseret telekommunikation"
+    },
+    {
+        "code": "612000",
+        "title": "Videresalg af telekommunikation og formidlingsaktiviteter inden for telekommunikation"
+    },
+    {
+        "code": "619000",
+        "title": "Andre telekommunikationsaktiviteter"
+    },
+    {
+        "code": "621000",
+        "title": "Computerprogrammering"
+    },
+    {
+        "code": "622000",
+        "title": "Computerkonsulentbistand og forvaltning af computerfaciliteter"
+    },
+    {
+        "code": "629000",
+        "title": "Andre IT- og computerserviceaktiviteter"
+    },
+    {
+        "code": "631000",
+        "title": "IT-infrastruktur, databehandling, hosting og relaterede aktiviteter"
+    },
+    {
+        "code": "639100",
+        "title": "Drift af portaler til internettet"
+    },
+    {
+        "code": "639200",
+        "title": "Andre informationsaktiviteter"
+    },
+    {
+        "code": "641100",
+        "title": "Centralbankers aktiviteter"
+    },
+    {
+        "code": "641900",
+        "title": "Andre pengeinstitutters aktiviteter"
+    },
+    {
+        "code": "642110",
+        "title": "Finansielle holdingselskaber"
+    },
+    {
+        "code": "642120",
+        "title": "Ikke-finansielle holdingselskaber"
+    },
+    {
+        "code": "642130",
+        "title": "Gennemløbsholdingselskaber"
+    },
+    {
+        "code": "642200",
+        "title": "Finansielle conduiters aktiviteter"
+    },
+    {
+        "code": "643110",
+        "title": "Pengemarkedsfondes aktiviteter"
+    },
+    {
+        "code": "643120",
+        "title": "Andre investeringsfondes aktiviteter"
+    },
+    {
+        "code": "643200",
+        "title": "Trusters aktiviteter"
+    },
+    {
+        "code": "649100",
+        "title": "Finansiel leasing"
+    },
+    {
+        "code": "649210",
+        "title": "Realkreditinstitutters aktiviteter"
+    },
+    {
+        "code": "649220",
+        "title": "Andre kreditinstitutters aktiviteter"
+    },
+    {
+        "code": "649230",
+        "title": "Andre kreditselskabers aktiviteter"
+    },
+    {
+        "code": "649910",
+        "title": "Investering for egen regning"
+    },
+    {
+        "code": "649990",
+        "title": "Anden finansiel formidling i.a.n."
+    },
+    {
+        "code": "651100",
+        "title": "Livsforsikring"
+    },
+    {
+        "code": "651200",
+        "title": "Anden forsikring"
+    },
+    {
+        "code": "652000",
+        "title": "Genforsikring"
+    },
+    {
+        "code": "653010",
+        "title": "Pensionskassers aktiviteter"
+    },
+    {
+        "code": "653020",
+        "title": "Anden pensionsforsikring"
+    },
+    {
+        "code": "661100",
+        "title": "Forvaltning af kapitalmarkeder"
+    },
+    {
+        "code": "661200",
+        "title": "Værdipapir- og varemægling"
+    },
+    {
+        "code": "661900",
+        "title": "Andre aktiviteter i forbindelse med finansielle tjenesteydelser, undtagen forsikring og pensionsforsikring"
+    },
+    {
+        "code": "662100",
+        "title": "Risiko- og skadesvurdering"
+    },
+    {
+        "code": "662200",
+        "title": "Forsikringsagenters og forsikringsmægleres aktiviteter"
+    },
+    {
+        "code": "662900",
+        "title": "Aktiviteter i forbindelse med forsikring og pensionsforsikring i.a.n."
+    },
+    {
+        "code": "663000",
+        "title": "Formueforvaltning"
+    },
+    {
+        "code": "681100",
+        "title": "Køb og salg af egen fast ejendom"
+    },
+    {
+        "code": "681200",
+        "title": "Gennemførelse af byggeprojekter"
+    },
+    {
+        "code": "682010",
+        "title": "Udlejning af almennyttige boliger"
+    },
+    {
+        "code": "682020",
+        "title": "Udlejning af private andelsboliger"
+    },
+    {
+        "code": "682030",
+        "title": "Anden udlejning af boliger"
+    },
+    {
+        "code": "682040",
+        "title": "Udlejning af erhvervsejendomme"
+    },
+    {
+        "code": "683110",
+        "title": "Ejendomsmægleres aktiviteter"
+    },
+    {
+        "code": "683120",
+        "title": "Boliganvisning"
+    },
+    {
+        "code": "683210",
+        "title": "Administration af fast ejendom på kontraktbasis"
+    },
+    {
+        "code": "683220",
+        "title": "Drift af ejerforeninger"
+    },
+    {
+        "code": "691000",
+        "title": "Juridiske aktiviteter"
+    },
+    {
+        "code": "692000",
+        "title": "Bogføring og revision; skatterådgivning"
+    },
+    {
+        "code": "701010",
+        "title": "Ikke-finansielle hovedsæders aktiviteter"
+    },
+    {
+        "code": "701020",
+        "title": "Finansielle hovedsæders aktiviteter"
+    },
+    {
+        "code": "702000",
+        "title": "Virksomhedsrådgivning og anden ledelsesrådgivning"
+    },
+    {
+        "code": "711100",
+        "title": "Arkitektaktiviteter"
+    },
+    {
+        "code": "711210",
+        "title": "Rådgivende ingeniøraktiviteter inden for byggeri og anlægsarbejder"
+    },
+    {
+        "code": "711220",
+        "title": "Rådgivende ingeniøraktiviteter inden for produktions- og maskinteknik"
+    },
+    {
+        "code": "711230",
+        "title": "Rådgivende ingeniøraktiviteter inden for færdige fabriksanlæg"
+    },
+    {
+        "code": "711240",
+        "title": "Geologiske undersøgelser og prospektering, landinspektører mv."
+    },
+    {
+        "code": "711290",
+        "title": "Anden teknisk rådgivning"
+    },
+    {
+        "code": "712010",
+        "title": "Kontrol af levnedsmidler"
+    },
+    {
+        "code": "712020",
+        "title": "Teknisk afprøvning og kontrol"
+    },
+    {
+        "code": "712090",
+        "title": "Anden måling og teknisk analyse"
+    },
+    {
+        "code": "721000",
+        "title": "Forskning og eksperimentel udvikling inden for naturvidenskab og teknik"
+    },
+    {
+        "code": "722000",
+        "title": "Forskning og eksperimentel udvikling inden for samfundsvidenskab og humanistiske videnskaber"
+    },
+    {
+        "code": "731110",
+        "title": "Planlægning og design af reklamekampagner"
+    },
+    {
+        "code": "731190",
+        "title": "Andre reklameaktiviteter"
+    },
+    {
+        "code": "731200",
+        "title": "Indrykning af reklamer i medier"
+    },
+    {
+        "code": "732000",
+        "title": "Markedsanalyse og offentlig meningsmåling"
+    },
+    {
+        "code": "733000",
+        "title": "Public relations og kommunikation"
+    },
+    {
+        "code": "741100",
+        "title": "Industrielt design og modedesign"
+    },
+    {
+        "code": "741200",
+        "title": "Grafisk design og visuel kommunikation"
+    },
+    {
+        "code": "741300",
+        "title": "Indretningsaktiviteter"
+    },
+    {
+        "code": "741400",
+        "title": "Andet specialiseret designarbejde"
+    },
+    {
+        "code": "742000",
+        "title": "Fotografiske aktiviteter"
+    },
+    {
+        "code": "743000",
+        "title": "Oversættelse og tolkning"
+    },
+    {
+        "code": "749100",
+        "title": "Patentbureauers aktiviteter og tjenesteydelser i forbindelse med markedsføring"
+    },
+    {
+        "code": "749910",
+        "title": "Landbrugskonsulenters aktiviteter"
+    },
+    {
+        "code": "749990",
+        "title": "Andre liberale, videnskabelige og tekniske tjenesteydelser i.a.n."
+    },
+    {
+        "code": "750000",
+        "title": "Dyrlægeaktiviteter"
+    },
+    {
+        "code": "771100",
+        "title": "Udlejning og leasing af biler og lette motorkøretøjer"
+    },
+    {
+        "code": "771200",
+        "title": "Udlejning og leasing af lastbiler"
+    },
+    {
+        "code": "772100",
+        "title": "Udlejning og leasing af varer til fritid og sport"
+    },
+    {
+        "code": "772200",
+        "title": "Udlejning og leasing af andre varer til personlig brug og husholdningsbrug"
+    },
+    {
+        "code": "773100",
+        "title": "Udlejning og leasing af landbrugsmaskiner og -udstyr"
+    },
+    {
+        "code": "773200",
+        "title": "Udlejning og leasing af entreprenørmateriel"
+    },
+    {
+        "code": "773300",
+        "title": "Udlejning og leasing af kontormaskiner og -udstyr og computere"
+    },
+    {
+        "code": "773400",
+        "title": "Udlejning og leasing af skibe og både"
+    },
+    {
+        "code": "773500",
+        "title": "Udlejning og leasing af luftfartøjer"
+    },
+    {
+        "code": "773910",
+        "title": "Udlejning og leasing af andet materiel, udstyr og andre materielle aktiver til events"
+    },
+    {
+        "code": "773990",
+        "title": "Udlejning og leasing af andet materiel, udstyr og andre materielle aktiver, bortset fra til events"
+    },
+    {
+        "code": "774000",
+        "title": "Leasing af intellektuelle ejendomsrettigheder og lignende produkter, dog ikke ophavsretsbeskyttede værker"
+    },
+    {
+        "code": "775100",
+        "title": "Formidlingsaktiviteter inden for udlejning og leasing af biler, autocampere og påhængsvogne"
+    },
+    {
+        "code": "775200",
+        "title": "Formidlingsaktiviteter inden for udlejning og leasing af andre materielle aktiver og ikke-finansielle immaterielle aktiver"
+    },
+    {
+        "code": "781000",
+        "title": "Arbejdsformidlingskontorers aktiviteter"
+    },
+    {
+        "code": "782000",
+        "title": "Vikarbureauers aktiviteter og anden personaleformidling"
+    },
+    {
+        "code": "791100",
+        "title": "Rejsebureauers aktiviteter"
+    },
+    {
+        "code": "791200",
+        "title": "Rejsearrangørers aktiviteter"
+    },
+    {
+        "code": "799000",
+        "title": "Andre reservationstjenesteydelser og tjenesteydelser i forbindelse hermed"
+    },
+    {
+        "code": "800100",
+        "title": "Efterforskning og private vagt- og sikkerhedsaktiviteter"
+    },
+    {
+        "code": "800900",
+        "title": "Vagt- og sikkerhedsaktiviteter i.a.n."
+    },
+    {
+        "code": "811000",
+        "title": "Levering af kombinerede hjælpetjenester i forbindelse med drift af fast ejendom"
+    },
+    {
+        "code": "812100",
+        "title": "Almindelig rengøring i bygninger"
+    },
+    {
+        "code": "812210",
+        "title": "Vinduespolering"
+    },
+    {
+        "code": "812220",
+        "title": "Skorstensfejning"
+    },
+    {
+        "code": "812290",
+        "title": "Anden rengøring af bygninger og rengøring af erhvervslokaler i.a.n. "
+    },
+    {
+        "code": "812300",
+        "title": "Anden rengøring"
+    },
+    {
+        "code": "813000",
+        "title": "Landskabspleje"
+    },
+    {
+        "code": "821000",
+        "title": "Administrations- og kontorserviceaktiviteter"
+    },
+    {
+        "code": "822000",
+        "title": "Drift af callcentre"
+    },
+    {
+        "code": "823000",
+        "title": "Organisering af kongresser, messer og udstillinger"
+    },
+    {
+        "code": "824000",
+        "title": "Formidlingsaktiviteter inden for forretningsservice i.a.n."
+    },
+    {
+        "code": "829100",
+        "title": "Inkassoaktiviteter og kreditoplysning"
+    },
+    {
+        "code": "829200",
+        "title": "Pakkeriaktiviteter"
+    },
+    {
+        "code": "829900",
+        "title": "Andre forretningsserviceaktiviteter i.a.n."
+    },
+    {
+        "code": "841100",
+        "title": "Generelle offentlige forvaltningsaktiviteter"
+    },
+    {
+        "code": "841200",
+        "title": "Administration af sundhedsvæsen, undervisning, kultur og sociale forhold"
+    },
+    {
+        "code": "841300",
+        "title": "Administration af og bidrag til erhvervsfremme"
+    },
+    {
+        "code": "842100",
+        "title": "Udenrigsanliggender"
+    },
+    {
+        "code": "842200",
+        "title": "Aktiviteter inden for forsvar"
+    },
+    {
+        "code": "842300",
+        "title": "Aktiviteter inden for retsvæsen"
+    },
+    {
+        "code": "842400",
+        "title": "Aktiviteter inden for offentlig sikkerhed og orden"
+    },
+    {
+        "code": "842500",
+        "title": "Aktiviteter inden for brandvæsen"
+    },
+    {
+        "code": "843000",
+        "title": "Aktiviteter inden for lovpligtig socialsikring"
+    },
+    {
+        "code": "851000",
+        "title": "Førskoleundervisning"
+    },
+    {
+        "code": "852010",
+        "title": "Undervisning på almene grundskoler"
+    },
+    {
+        "code": "852020",
+        "title": "Undervisning på specialskoler for børn med funktionsnedsættelser"
+    },
+    {
+        "code": "853110",
+        "title": "Undervisning på ungdoms- og efterskoler"
+    },
+    {
+        "code": "853120",
+        "title": "Undervisning på gymnasier, studenter- og HF-kurser"
+    },
+    {
+        "code": "853200",
+        "title": "Undervisning på erhvervsfaglige skoler"
+    },
+    {
+        "code": "853300",
+        "title": "Videregående uddannelse, ikke på universitetsniveau"
+    },
+    {
+        "code": "854000",
+        "title": "Videregående uddannelse på universitetsniveau"
+    },
+    {
+        "code": "855100",
+        "title": "Undervisning inden for sport og fritid"
+    },
+    {
+        "code": "855200",
+        "title": "Undervisning i kulturelle discipliner"
+    },
+    {
+        "code": "855300",
+        "title": "Drift af køreskoler"
+    },
+    {
+        "code": "855900",
+        "title": "Anden undervisning i.a.n."
+    },
+    {
+        "code": "856100",
+        "title": "Formidlingsaktiviteter i forbindelse med kurser og undervisere"
+    },
+    {
+        "code": "856900",
+        "title": "Levering af hjælpeydelser i forbindelse med undervisning i.a.n."
+    },
+    {
+        "code": "861000",
+        "title": "Aktiviteter inden for hospitalsvæsen"
+    },
+    {
+        "code": "862100",
+        "title": "Alment praktiserende lægers aktiviteter"
+    },
+    {
+        "code": "862200",
+        "title": "Speciallægers aktiviteter"
+    },
+    {
+        "code": "862300",
+        "title": "Tandlægers aktiviteter"
+    },
+    {
+        "code": "869100",
+        "title": "Billeddiagnostiske undersøgelser og medicinske laboratorieaktiviteter"
+    },
+    {
+        "code": "869200",
+        "title": "Patienttransport med ambulance"
+    },
+    {
+        "code": "869300",
+        "title": "Psykologisk og psykoterapeutisk rådgivning"
+    },
+    {
+        "code": "869400",
+        "title": "Sundhedspleje, hjemmesygepleje, jordemoderaktiviteter mv."
+    },
+    {
+        "code": "869500",
+        "title": "Fysio- og ergoterapi"
+    },
+    {
+        "code": "869600",
+        "title": "Traditionelle, komplementære og alternative behandlingsformer"
+    },
+    {
+        "code": "869700",
+        "title": "Formidlingsaktiviteter inden for læge- og tandlægeaktiviteter samt sundhedsvæsen i øvrigt"
+    },
+    {
+        "code": "869900",
+        "title": "Drift af sundhedsvæsen i øvrigt i.a.n."
+    },
+    {
+        "code": "871010",
+        "title": "Drift af plejehjem"
+    },
+    {
+        "code": "871020",
+        "title": "Institutionsophold med sygepleje i.a.n."
+    },
+    {
+        "code": "872010",
+        "title": "Drift af døgninstitutioner for personer med psykiske handicap"
+    },
+    {
+        "code": "872020",
+        "title": "Drift af behandlingshjem for stofmisbrugere og alkoholskadede"
+    },
+    {
+        "code": "873010",
+        "title": "Drift af døgninstitutioner for personer med fysisk handicap"
+    },
+    {
+        "code": "873020",
+        "title": "Drift af beskyttede boliger o. lign."
+    },
+    {
+        "code": "879100",
+        "title": "Formidlingsaktiviteter i forbindelse med institutionsophold"
+    },
+    {
+        "code": "879910",
+        "title": "Drift af døgninstitutioner for børn og unge"
+    },
+    {
+        "code": "879920",
+        "title": "Familiepleje"
+    },
+    {
+        "code": "879930",
+        "title": "Drift af flygtninge- og asylcentre"
+    },
+    {
+        "code": "879990",
+        "title": "Drift af andre former for institutionsophold"
+    },
+    {
+        "code": "881010",
+        "title": "Drift af hjemmehjælp"
+    },
+    {
+        "code": "881020",
+        "title": "Drift af dagcentre mv."
+    },
+    {
+        "code": "881030",
+        "title": "Drift af revalideringsinstitutioner"
+    },
+    {
+        "code": "889110",
+        "title": "Drift af dagpleje"
+    },
+    {
+        "code": "889120",
+        "title": "Drift af vuggestuer"
+    },
+    {
+        "code": "889130",
+        "title": "Drift af børnehaver"
+    },
+    {
+        "code": "889140",
+        "title": "Drift af skolefritidsordninger og fritidshjem"
+    },
+    {
+        "code": "889150",
+        "title": "Drift af aldersintegrerede institutioner"
+    },
+    {
+        "code": "889160",
+        "title": "Drift af fritids- og ungdomsklubber"
+    },
+    {
+        "code": "889910",
+        "title": "Støtteaktiviteter relateret til sygdomsbekæmpende, sociale og velgørende formål"
+    },
+    {
+        "code": "889920",
+        "title": "Aktiviteter til støtte for flygtninge- og katastrofeofre mv."
+    },
+    {
+        "code": "889990",
+        "title": "Andre sociale støtte- og rådgivningsaktiviteter uden institutionsophold"
+    },
+    {
+        "code": "901100",
+        "title": "Litteratur- og musikkomposition"
+    },
+    {
+        "code": "901200",
+        "title": "Billedkunstnerisk skaben"
+    },
+    {
+        "code": "901300",
+        "title": "Anden kunstnerisk skaben"
+    },
+    {
+        "code": "902010",
+        "title": "Teater- og koncertproduktioner"
+    },
+    {
+        "code": "902020",
+        "title": "Selvstændigt udøvende scenekunstnere"
+    },
+    {
+        "code": "903100",
+        "title": "Drift af teater- og koncertsale, kulturhuse mv."
+    },
+    {
+        "code": "903910",
+        "title": "Teknisk planlægning, levering, opsætning og betjening af udstyr til events"
+    },
+    {
+        "code": "903920",
+        "title": "Levering af andre serviceydelser i forbindelse med kunstnerisk skaben og scenekunst i.a.n."
+    },
+    {
+        "code": "911100",
+        "title": "Biblioteksaktiviteter"
+    },
+    {
+        "code": "911200",
+        "title": "Arkivaktiviteter"
+    },
+    {
+        "code": "912100",
+        "title": "Museumsaktiviteter og aktiviteter i forbindelse med samlinger"
+    },
+    {
+        "code": "912200",
+        "title": "Drift og bevarelse af fortidsminder, mindesmærker mv."
+    },
+    {
+        "code": "913000",
+        "title": "Konservering, restaurering og andre serviceydelser inden for kulturarv"
+    },
+    {
+        "code": "914100",
+        "title": "Drift af botaniske og zoologiske haver"
+    },
+    {
+        "code": "914200",
+        "title": "Drift af naturreservater"
+    },
+    {
+        "code": "920000",
+        "title": "Lotteri- og andre spilleaktiviteter"
+    },
+    {
+        "code": "931100",
+        "title": "Drift af sportsanlæg"
+    },
+    {
+        "code": "931200",
+        "title": "Drift af sportsklubber"
+    },
+    {
+        "code": "931300",
+        "title": "Drift af fitnesscentre"
+    },
+    {
+        "code": "931900",
+        "title": "Sportsaktiviteter i.a.n."
+    },
+    {
+        "code": "932100",
+        "title": "Drift af forlystelsesparker o.lign."
+    },
+    {
+        "code": "932910",
+        "title": "Drift af lystbådehavne"
+    },
+    {
+        "code": "932990",
+        "title": "Drift af andre forlystelser og fritidsaktiviteter"
+    },
+    {
+        "code": "941100",
+        "title": "Erhvervs- og arbejdsgiverorganisationers aktiviteter"
+    },
+    {
+        "code": "941200",
+        "title": "Faglige sammenslutningers aktiviteter"
+    },
+    {
+        "code": "942000",
+        "title": "Fagforeningers aktiviteter"
+    },
+    {
+        "code": "949100",
+        "title": "Religiøse institutioners og foreningers aktiviteter"
+    },
+    {
+        "code": "949200",
+        "title": "Politiske partiers aktiviteter"
+    },
+    {
+        "code": "949900",
+        "title": "Andre organisationers og foreningers aktiviteter i.a.n."
+    },
+    {
+        "code": "951000",
+        "title": "Reparation og vedligeholdelse af computere og kommunikationsudstyr"
+    },
+    {
+        "code": "952100",
+        "title": "Reparation og vedligeholdelse af forbrugerelektronik"
+    },
+    {
+        "code": "952200",
+        "title": "Reparation og vedligeholdelse af husholdningsapparater og redskaber til hus og have"
+    },
+    {
+        "code": "952300",
+        "title": "Reparation og vedligeholdelse af fodtøj og lædervarer"
+    },
+    {
+        "code": "952400",
+        "title": "Reparation og vedligeholdelse af møbler og boligudstyr"
+    },
+    {
+        "code": "952500",
+        "title": "Reparation og vedligeholdelse af ure og smykker"
+    },
+    {
+        "code": "952900",
+        "title": "Reparation og vedligeholdelse af varer til personlig brug og husholdningsbrug i.a.n."
+    },
+    {
+        "code": "953110",
+        "title": "Dækservice"
+    },
+    {
+        "code": "953120",
+        "title": "Reparation og lakering af karosseri samt undervognsbehandling"
+    },
+    {
+        "code": "953190",
+        "title": "Reparation og vedligeholdelse af motorkøretøjer i.a.n."
+    },
+    {
+        "code": "953200",
+        "title": "Reparation og vedligeholdelse af motorcykler"
+    },
+    {
+        "code": "954000",
+        "title": "Formidlingsaktiviteter i forbindelse med reparation og vedligeholdelse af computere, varer til personlig brug og husholdningsbrug samt motorkøretøjer og motorcykler"
+    },
+    {
+        "code": "961010",
+        "title": "Drift af erhvervs- og institutionsvaskerier"
+    },
+    {
+        "code": "961020",
+        "title": "Drift af renserier og selvbetjeningsvaskerier mv."
+    },
+    {
+        "code": "962100",
+        "title": "Drift af frisør- og barbersaloner"
+    },
+    {
+        "code": "962200",
+        "title": "Skønhedspleje og anden skønhedsbehandling"
+    },
+    {
+        "code": "962300",
+        "title": "Drift af dagspa, saunaer og dampbade"
+    },
+    {
+        "code": "963000",
+        "title": "Drift af bedemandsforretninger og begravelsesvæsen"
+    },
+    {
+        "code": "964000",
+        "title": "Formidlingsaktiviteter inden for personlige serviceydelser"
+    },
+    {
+        "code": "969100",
+        "title": "Levering af personlige serviceydelser i hjemmet"
+    },
+    {
+        "code": "969900",
+        "title": "Andre personlige serviceydelser i.a.n."
+    },
+    {
+        "code": "970000",
+        "title": "Aktiviteter i husholdninger med ansat medhjælp"
+    },
+    {
+        "code": "981000",
+        "title": "Private husholdningers produktion af udifferentierede varer til eget brug"
+    },
+    {
+        "code": "982000",
+        "title": "Private husholdningers produktion af udifferentierede tjenesteydelser til eget brug"
+    },
+    {
+        "code": "990010",
+        "title": "Ambassaders eksterritoriale aktivitet"
+    },
+    {
+        "code": "990020",
+        "title": "Andre eksterritoriale organisationers og organers aktiviteter"
+    }
+]
